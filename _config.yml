@@ -1,1 +1,54 @@
-theme: jekyll-theme-architect
+# original GitHub settings
+# theme: jekyll-theme-architect
+
+# my own settings
+# Site settings
+title: Tobiichi's Blog
+SEOTitle: 鸢一折纸的博客 | Tobiichi's Blog
+header-img: img/post-coffee.jpeg
+email: L.G.Stark@outlook.com
+description: " Nothing is true, everything is permitted."
+keyword: "Tobiichi, Tobiichi's Blog, 鸢一折纸的博客, aiyuchen, 艾语晨, iOS, Apple, iPhone"
+url: "http://Lapland-Stark.github.io"          # your host, for absolute URL
+baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+github_repo: "https://github.com/Lapland-Stark/Lapland-Stark.github.io.git" # you code repository
+
+# Sidebar settings
+sidebar: true                           # whether or not using Sidebar.
+sidebar-about-description: "Talk is cheap. Show me the code. -- Linus Torvalds"
+sidebar-avatar: /img/Tobiichi_me.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+
+# SNS settings
+RSS: false
+# weibo_username:     qiubaiying
+# zhihu_username:     Lapland Stark
+# github_username:    TobiichiAyc
+github_username:    Lapland-Stark
+facebook_username:  baiying.qiu.7
+jianshu_username:   b460b6af115d
+twitter_username:   lapland-stark
+
+# Gems
+# from PR#40, to support local preview for Jekyll 3.0
+gems: [jekyll-paginate]
+
+# Markdown settings
+# replace redcarpet to kramdown,
+# although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to kramdown
+# document: http://jekyllrb.com/docs/configuration/#kramdown
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM                            # use Github Flavored Markdown !important
+
+# Featured Tags
+featured-tags: true                     # 是否使用首页标签
+featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
+
+# Friends
+friends: [
+  {
+	  title: "Apple",
+    href: "https://apple.com"
+  }
+]
