@@ -7,26 +7,26 @@ title: Tobiichi's Blog
 SEOTitle: 鸢一折纸的博客 | Tobiichi's Blog
 header-img: img/post-coffee.jpeg
 email: L.G.Stark@outlook.com
-description: " Nothing is true, everything is permitted."
+description: "Nothing is true, everything is permitted."
 keyword: "Tobiichi, Tobiichi's Blog, 鸢一折纸的博客, aiyuchen, 艾语晨, iOS, Apple, iPhone"
-url: "http://Lapland-Stark.github.io"          # your host, for absolute URL
+url: "http://OrigamiAyc.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/Lapland-Stark/Lapland-Stark.github.io.git" # you code repository
+github_repo: "https://github.com/OrigamiAyc/OrigamiAyc.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Talk is cheap. Show me the code. -- Linus Torvalds"
-sidebar-avatar: /images/Tobiichi_me.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /images/Origami_me.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-# zhihu_username:     Lapland Stark
+zhihu_username:     Lapland Stark
 # github_username:    TobiichiAyc
-github_username:    Lapland-Stark
-facebook_username:  baiying.qiu.7
+github_username:    OrigamiAyc
+facebook_username:  els.stark.7
 jianshu_username:   b460b6af115d
-twitter_username:   lapland-stark
+twitter_username:   LaplandStark
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
