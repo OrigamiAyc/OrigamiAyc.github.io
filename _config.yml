@@ -3,12 +3,12 @@
 
 # my own settings
 # Site settings
-title: Tobiichi's Blog
-SEOTitle: 鸢一折纸的博客 | Tobiichi's Blog
+title: Origami's Blog
+SEOTitle: 鸢一折纸的博客 | Origami's Blog
 header-img: img/post-coffee.jpeg
 email: L.G.Stark@outlook.com
 description: "Nothing is true, everything is permitted."
-keyword: "Tobiichi, Tobiichi's Blog, 鸢一折纸的博客, aiyuchen, 艾语晨, iOS, Apple, iPhone"
+keyword: "Origami, Origami's Blog, 鸢一折纸的博客, aiyuchen, 艾语晨, iOS, Apple, iPhone"
 url: "http://OrigamiAyc.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/OrigamiAyc/OrigamiAyc.github.io.git" # you code repository
