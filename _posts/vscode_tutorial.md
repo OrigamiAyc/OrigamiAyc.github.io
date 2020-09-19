@@ -1,7 +1,8 @@
 ---
 layout:		post
 title:		VS code，从编辑器到编译器
-date:		03/08/2020 (First-time Published); 09/19/2020 (Copied Here)
+subtitle:   Visual Studio Code 对C/C++的初步配置
+date:		03/08/2020
 author:		上官凝
 catalog:	true
 tags:
