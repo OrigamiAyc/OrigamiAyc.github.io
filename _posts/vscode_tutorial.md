@@ -1,22 +1,13 @@
 ---
 layout:		post
 title:		VS code，从编辑器到编译器
-<<<<<<< HEAD
-date:		03/08/2020 (First-time Published); 09/19/2020 (Copied Here)
-author:		上官凝
-catalog:	true
-# tags:
-	# - Tutorials & Tricks
-	# - Development Tools
-=======
 subtitle:   Visual Studio Code 对C/C++的初步配置
 date:		03/08/2020
 author:		上官凝
 catalog:	true
 tags:
-	- Tutorials & Tricks
-	- Development Tools
->>>>>>> e00514a64a08de8af2c2967b1d96f903d7811ddb
+ - Tutorials & Tricks
+ - Development Tools
 ---
 
 很多人都把 vs code(vsc) 作为一个好康的编辑器来用（yysy确实比vim、emacs好看多了）不过一个 开源的、跨平台的 的vs code，更应该发挥出“不是IDE优于IDE”的力量。
