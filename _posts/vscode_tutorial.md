@@ -6,8 +6,8 @@ date:		03/08/2020
 author:		上官凝
 catalog:	true
 tags:
- - Tutorials & Tricks
- - Development Tools
+    - Tutorials & Tricks
+    - Development Tools
 ---
 
 很多人都把 vs code(vsc) 作为一个好康的编辑器来用（yysy确实比vim、emacs好看多了）不过一个 开源的、跨平台的 的vs code，更应该发挥出“不是IDE优于IDE”的力量。
